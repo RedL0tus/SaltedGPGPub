@@ -1,0 +1,6 @@
+name = "salted_gpg_pub"
+type = "javascript"
+account_id = "560a188b90a4bf11fbd0bd89637b84a9"
+workers_dev = false
+route = "gpg.salted.fish/*"
+zone_id = "3e0ef5db3745ba8949f3eaef26cc0e50"
