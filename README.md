@@ -1,6 +1,8 @@
 SaltedGPGPub
 ============
 
+DEPRECATED: use <https://github.com/RedL0tus/SaltedKeys> instead.
+
 A simple CloudFlare Worker site for easy publishing of GPG/OpenPGP public keys.
 
 Deployment
